@@ -18,7 +18,7 @@ status-website:
   baseUrl: /edubot
   logoUrl: https://agencia.portinos.com/wp-content/uploads/2018/12/logo-portinos.png
   name: Edu Bot Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Portinos** Muestra el status de los sitios."
   introMessage: App Status
   #navbar:
   #  - title: Status
