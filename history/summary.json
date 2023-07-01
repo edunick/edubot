@@ -1,22 +1,42 @@
 [
   {
-    "name": "Strapi",
-    "url": "https://strapi.portinos.com/retailers/",
-    "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
-    "slug": "strapi",
+    "name": "Agencia",
+    "url": "https://agencia.portinos.com",
+    "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
+    "slug": "agencia",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "29.78%",
+    "uptimeDay": "29.78%",
+    "uptimeWeek": "29.78%",
+    "uptimeMonth": "29.78%",
+    "uptimeYear": "29.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-01": 34
+      "2023-07-01": 0
+    }
+  },
+  {
+    "name": "Strapi",
+    "url": "https://strapi.portinos.com/retailers/",
+    "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
+    "slug": "strapi",
+    "status": "down",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-01": 39
     }
   },
   {
@@ -30,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 640,
-    "timeWeek": 640,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "time": 592,
+    "timeDay": 592,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
