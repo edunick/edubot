@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Strapi
-    url: https://strapi.portinos.com
+    url: https://strapi.portinos.com/retailers
 assignees:
   - edunick
 status-website:
