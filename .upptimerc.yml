@@ -9,6 +9,9 @@ sites:
     url: https://strapi.portinos.com/retailers/
   - name: Marketing Studio
     url: https://marketingstudio.intel.com/
+  - name: Strapi Amazon India
+    url: https://strapi.portinos.com/v1/api/amazon-india/get_products
+    
 assignees:
   - edunick
 status-website:
