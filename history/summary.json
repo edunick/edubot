@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 737,
+      "2023-07-02": 752,
       "2023-07-01": 1244
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 737,
+      "2023-07-02": 752,
       "2023-07-01": 1283
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://marketingstudio.intel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/marketingstudio.intel.com.ico",
     "slug": "marketing-studio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 782,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 643,
+    "timeDay": 841,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 14
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 737,
+      "2023-07-02": 752,
       "2023-07-01": 1234
     }
   }
