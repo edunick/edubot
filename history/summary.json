@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 2,
+      "2023-07-02": 737,
       "2023-07-01": 1244
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 2,
+      "2023-07-02": 737,
       "2023-07-01": 1283
     }
   },
@@ -46,18 +46,20 @@
     "url": "https://marketingstudio.intel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/marketingstudio.intel.com.ico",
     "slug": "marketing-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
-    "timeDay": 592,
+    "timeDay": 782,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Strapi Amazon India",
@@ -76,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 2,
+      "2023-07-02": 737,
       "2023-07-01": 1234
     }
   }
