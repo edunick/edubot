@@ -1,7 +1,7 @@
 url: https://strapi.portinos.com/v1/api/amazon-india/get_products
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-27T17:42:42.261Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2024-06-27T18:18:56.118Z
 startTime: 2023-07-01T03:25:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
