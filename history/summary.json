@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "14.15%",
+    "uptime": "14.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.10%",
-    "time": 1941,
-    "timeDay": 1847,
-    "timeWeek": 1726,
-    "timeMonth": 1657,
-    "timeYear": 1941,
+    "uptimeYear": "16.27%",
+    "time": 1935,
+    "timeDay": 1537,
+    "timeWeek": 1708,
+    "timeMonth": 1645,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2024-07-22": 760,
       "2024-07-21": 1440,
@@ -321,8 +321,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -331,16 +330,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "14.46%",
+    "uptime": "14.59%",
     "uptimeDay": "96.72%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "16.46%",
-    "time": 1343,
-    "timeDay": 1633,
-    "timeWeek": 832,
+    "uptimeYear": "16.63%",
+    "time": 1333,
+    "timeDay": 1503,
+    "timeWeek": 815,
     "timeMonth": 1508,
-    "timeYear": 1343,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2024-08-26": 47,
       "2024-08-18": 299,
@@ -651,8 +650,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -666,11 +664,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 270,
-    "timeWeek": 583,
-    "timeMonth": 745,
-    "timeYear": 629,
+    "time": 622,
+    "timeDay": 928,
+    "timeWeek": 626,
+    "timeMonth": 744,
+    "timeYear": 630,
     "dailyMinutesDown": {}
   },
   {
@@ -679,18 +677,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi-amazon-india",
     "status": "down",
-    "uptime": "5.64%",
+    "uptime": "5.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.25%",
-    "time": 702,
-    "timeDay": 177,
-    "timeWeek": 168,
+    "time": 693,
+    "timeDay": 118,
+    "timeWeek": 161,
     "timeMonth": 141,
-    "timeYear": 702,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-08-26": 539,
+      "2024-08-27": 1,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -1033,8 +1032,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   }
 ]
