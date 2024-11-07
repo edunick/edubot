@@ -1,7 +1,7 @@
 url: https://strapi.portinos.com/retailers/
-status: down
-code: 503
-responseTime: 461
-lastUpdated: 2024-11-07T05:54:01.339Z
+status: up
+code: 200
+responseTime: 8073
+lastUpdated: 2024-11-07T06:00:13.236Z
 startTime: 2023-07-01T02:36:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
