@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "27.04%",
+    "uptime": "27.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "37.05%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "37.33%",
     "time": 1731,
-    "timeDay": 1856,
-    "timeWeek": 1759,
-    "timeMonth": 1653,
+    "timeDay": 1709,
+    "timeWeek": 1826,
+    "timeMonth": 1655,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2024-10-30": 131,
@@ -248,8 +248,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -258,16 +257,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "28.30%",
+    "uptime": "28.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "38.79%",
-    "time": 1067,
-    "timeDay": 517,
+    "uptimeYear": "39.06%",
+    "time": 1064,
+    "timeDay": 529,
     "timeWeek": 596,
-    "timeMonth": 1091,
-    "timeYear": 1067,
+    "timeMonth": 1085,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2024-11-07": 31,
       "2024-11-06": 43,
@@ -500,8 +499,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -516,10 +514,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
-    "timeDay": 718,
-    "timeWeek": 611,
-    "timeMonth": 528,
-    "timeYear": 606,
+    "timeDay": 722,
+    "timeWeek": 608,
+    "timeMonth": 531,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -528,18 +526,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi-amazon-india",
     "status": "down",
-    "uptime": "4.72%",
+    "uptime": "4.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.25%",
-    "time": 403,
-    "timeDay": 116,
+    "time": 401,
+    "timeDay": 119,
     "timeWeek": 128,
-    "timeMonth": 193,
-    "timeYear": 403,
+    "timeMonth": 191,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-11-16": 2,
+      "2024-11-17": 1,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -882,8 +881,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   }
 ]
