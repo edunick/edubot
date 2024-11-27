@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "28.05%",
+    "uptime": "28.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.87%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "92.73%",
-    "uptimeYear": "39.21%",
+    "uptimeYear": "39.48%",
     "time": 1742,
-    "timeDay": 1771,
-    "timeWeek": 1946,
-    "timeMonth": 1738,
+    "timeDay": 1798,
+    "timeWeek": 1949,
+    "timeMonth": 1739,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2024-11-19": 620,
@@ -241,8 +241,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   },
   {
@@ -251,16 +250,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "29.69%",
+    "uptime": "29.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "41.53%",
-    "time": 1044,
-    "timeDay": 544,
-    "timeWeek": 616,
-    "timeMonth": 799,
-    "timeYear": 1044,
+    "uptimeYear": "41.80%",
+    "time": 1041,
+    "timeDay": 554,
+    "timeWeek": 593,
+    "timeMonth": 810,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2024-11-07": 31,
       "2024-11-06": 43,
@@ -483,8 +482,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   },
   {
@@ -499,10 +497,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 615,
-    "timeDay": 498,
-    "timeWeek": 575,
-    "timeMonth": 572,
-    "timeYear": 604,
+    "timeDay": 664,
+    "timeWeek": 602,
+    "timeMonth": 570,
+    "timeYear": 605,
     "dailyMinutesDown": {}
   },
   {
@@ -511,18 +509,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi-amazon-india",
     "status": "down",
-    "uptime": "4.63%",
+    "uptime": "4.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.25%",
-    "time": 387,
-    "timeDay": 117,
-    "timeWeek": 136,
+    "time": 385,
+    "timeDay": 116,
+    "timeWeek": 128,
     "timeMonth": 188,
-    "timeYear": 387,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-11-26": 2,
+      "2024-11-27": 2,
+      "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -865,8 +864,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   }
 ]
