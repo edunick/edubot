@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "33.23%",
+    "uptime": "33.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "52.80%",
+    "uptimeYear": "53.07%",
     "time": 1745,
-    "timeDay": 1770,
-    "timeWeek": 1876,
-    "timeMonth": 1756,
+    "timeDay": 1626,
+    "timeWeek": 1848,
+    "timeMonth": 1757,
     "timeYear": 1745,
     "dailyMinutesDown": {
       "2025-01-14": 151,
@@ -194,8 +194,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -204,16 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "38.01%",
+    "uptime": "38.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "60.42%",
-    "time": 983,
-    "timeDay": 582,
-    "timeWeek": 624,
-    "timeMonth": 1011,
-    "timeYear": 983,
+    "uptimeYear": "60.70%",
+    "time": 982,
+    "timeDay": 774,
+    "timeWeek": 645,
+    "timeMonth": 1017,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2025-01-07": 58,
       "2024-11-07": 31,
@@ -368,8 +367,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -384,10 +382,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 387,
-    "timeWeek": 626,
-    "timeMonth": 550,
-    "timeYear": 592,
+    "timeDay": 925,
+    "timeWeek": 667,
+    "timeMonth": 563,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -401,13 +399,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.25%",
-    "time": 313,
-    "timeDay": 136,
-    "timeWeek": 139,
-    "timeMonth": 144,
-    "timeYear": 313,
+    "time": 312,
+    "timeDay": 162,
+    "timeWeek": 143,
+    "timeMonth": 145,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-02-03": 2,
+      "2025-02-04": 1,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -750,8 +749,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   }
 ]
