@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "39.05%",
+    "uptime": "39.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.19%",
-    "uptimeYear": "69.10%",
+    "uptimeYear": "69.38%",
     "time": 1738,
-    "timeDay": 1972,
-    "timeWeek": 1785,
-    "timeMonth": 1745,
+    "timeDay": 1858,
+    "timeWeek": 1855,
+    "timeMonth": 1763,
     "timeYear": 1738,
     "dailyMinutesDown": {
       "2025-03-25": 768,
@@ -141,8 +141,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -151,16 +150,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "44.05%",
+    "uptime": "44.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.96%",
-    "time": 912,
-    "timeDay": 626,
-    "timeWeek": 560,
-    "timeMonth": 608,
-    "timeYear": 912,
+    "uptimeYear": "78.23%",
+    "time": 911,
+    "timeDay": 528,
+    "timeWeek": 561,
+    "timeMonth": 606,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2025-01-07": 58,
       "2024-11-07": 31,
@@ -252,8 +251,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -268,9 +266,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 602,
-    "timeWeek": 512,
-    "timeMonth": 505,
+    "timeDay": 550,
+    "timeWeek": 530,
+    "timeMonth": 512,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
@@ -280,18 +278,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi-amazon-india",
     "status": "down",
-    "uptime": "3.69%",
+    "uptime": "3.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.52%",
     "time": 274,
-    "timeDay": 137,
+    "timeDay": 117,
     "timeWeek": 122,
     "timeMonth": 134,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-04-07": 2,
+      "2025-04-08": 2,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -634,8 +633,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   }
 ]
