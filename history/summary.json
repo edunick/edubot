@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "41.15%",
+    "uptime": "41.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.41%",
+    "uptimeYear": "75.68%",
     "time": 1735,
-    "timeDay": 1750,
-    "timeWeek": 1685,
-    "timeMonth": 1714,
+    "timeDay": 1672,
+    "timeWeek": 1669,
+    "timeMonth": 1732,
     "timeYear": 1735,
     "dailyMinutesDown": {
       "2025-03-25": 768,
@@ -118,8 +118,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -128,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "45.98%",
+    "uptime": "46.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.26%",
-    "time": 894,
-    "timeDay": 572,
-    "timeWeek": 660,
-    "timeMonth": 614,
-    "timeYear": 894,
+    "uptimeYear": "84.53%",
+    "time": 893,
+    "timeDay": 604,
+    "timeWeek": 663,
+    "timeMonth": 618,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2025-01-07": 58,
       "2024-11-07": 31,
@@ -206,8 +205,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -221,10 +219,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 587,
-    "timeWeek": 487,
-    "timeMonth": 541,
+    "time": 580,
+    "timeDay": 585,
+    "timeWeek": 513,
+    "timeMonth": 546,
     "timeYear": 584,
     "dailyMinutesDown": {}
   },
@@ -234,18 +232,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi-amazon-india",
     "status": "down",
-    "uptime": "3.56%",
+    "uptime": "3.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "6.52%",
     "time": 264,
-    "timeDay": 118,
+    "timeDay": 136,
     "timeWeek": 143,
     "timeMonth": 135,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-04-30": 2,
+      "2025-05-01": 2,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -588,8 +587,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
