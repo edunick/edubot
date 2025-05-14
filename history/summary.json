@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "42.24%",
+    "uptime": "42.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.16%",
     "uptimeMonth": "97.74%",
-    "uptimeYear": "79.01%",
-    "time": 1726,
-    "timeDay": 1637,
-    "timeWeek": 1504,
-    "timeMonth": 1619,
-    "timeYear": 1726,
+    "uptimeYear": "79.05%",
+    "time": 1727,
+    "timeDay": 1930,
+    "timeWeek": 1599,
+    "timeMonth": 1638,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2025-05-11": 107,
       "2025-05-10": 885,
@@ -107,8 +107,7 @@
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
-      "2024-05-15": 1440,
-      "2024-05-14": 1440
+      "2024-05-15": 1440
     }
   },
   {
@@ -117,18 +116,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "47.07%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "88.05%",
-    "time": 882,
-    "timeDay": 568,
-    "timeWeek": 596,
-    "timeMonth": 637,
-    "timeYear": 882,
+    "uptime": "47.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "88.09%",
+    "time": 883,
+    "timeDay": 634,
+    "timeWeek": 620,
+    "timeMonth": 644,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2025-05-13": 9,
       "2025-01-07": 58,
       "2024-11-07": 31,
       "2024-11-06": 43,
@@ -183,8 +181,7 @@
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
-      "2024-05-15": 1440,
-      "2024-05-14": 1440
+      "2024-05-15": 1440
     }
   },
   {
@@ -199,10 +196,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
-    "timeDay": 613,
-    "timeWeek": 557,
-    "timeMonth": 540,
-    "timeYear": 581,
+    "timeDay": 205,
+    "timeWeek": 532,
+    "timeMonth": 522,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -217,12 +214,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "6.52%",
     "time": 259,
-    "timeDay": 118,
-    "timeWeek": 124,
-    "timeMonth": 139,
+    "timeDay": 178,
+    "timeWeek": 133,
+    "timeMonth": 141,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-05-13": 1237,
+      "2025-05-14": 2,
+      "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -565,8 +563,7 @@
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
-      "2024-05-15": 1440,
-      "2024-05-14": 1440
+      "2024-05-15": 1440
     }
   }
 ]
