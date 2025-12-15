@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencia.portinos.com.ico",
     "slug": "agencia",
     "status": "up",
-    "uptime": "56.01%",
+    "uptime": "56.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "95.80%",
-    "time": 1299,
-    "timeDay": 523,
-    "timeWeek": 505,
-    "timeMonth": 572,
-    "timeYear": 1218,
+    "uptimeYear": "96.08%",
+    "time": 1297,
+    "timeDay": 500,
+    "timeWeek": 516,
+    "timeMonth": 561,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2025-05-31": 222,
@@ -38,8 +38,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.portinos.com.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "59.71%",
+    "uptime": "59.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 744,
-    "timeDay": 658,
-    "timeWeek": 612,
-    "timeMonth": 651,
+    "time": 745,
+    "timeDay": 788,
+    "timeWeek": 609,
+    "timeMonth": 655,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2025-12-10": 37,
@@ -75,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 901,
-    "timeWeek": 568,
-    "timeMonth": 530,
+    "time": 534,
+    "timeDay": 283,
+    "timeWeek": 587,
+    "timeMonth": 525,
     "timeYear": 512,
     "dailyMinutesDown": {}
   },
@@ -94,12 +93,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 144,
-    "timeDay": 135,
-    "timeWeek": 140,
-    "timeMonth": 145,
+    "timeDay": 185,
+    "timeWeek": 141,
+    "timeMonth": 146,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-12-14": 2,
+      "2025-12-15": 2,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -462,8 +462,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   }
 ]
